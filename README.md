@@ -1,3 +1,5 @@
+# DEPRECATED MOVED TO (https://github.com/terraform-iaac/terraform-kubernetes-cert-resolver)
+
 # Kubernetes certificate resolver
 
 Terraform k8s module for get tls from GCP or AWS bucket and put into kubernetes secret for multiple namespaces
